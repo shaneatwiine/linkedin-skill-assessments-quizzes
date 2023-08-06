@@ -80,10 +80,10 @@ C. Read receipts are expensive, so some organizations turn them off.
 
 #### Q11. What does Outlook automatically point out to you when you are invited to a meeting?
 
-- [x] if your attendance is mandatory
+- [ ] if your attendance is mandatory
 - [ ] ifthe meeting is high or low priority
 - [ ] the amount of time you have between this meeting and your next event
-- [ ] if the meeting is adjacent to another event in your calendar
+- [x] if the meeting is adjacent to another event in your calendar
 
 #### Q12. What appears on your screen whenever a new email arrives?
 
