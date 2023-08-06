@@ -67,9 +67,9 @@ C. Read receipts are expensive, so some organizations turn them off.
 #### Q9. You can use a**\_to indicate that a message requires further action and a**to organize the message.
 
 - [ ] folder; category
-- [x] flag; tag
+- [ ] flag; tag
 - [ ] category; flag
-- [ ] flag; category
+- [x] flag; category
 
 #### Q10. You create a task and assign it to Nalia. Nalia reviews the request and declines the assignment. Where is the task now, and who is the owner?
 
