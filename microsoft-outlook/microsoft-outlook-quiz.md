@@ -158,15 +158,15 @@ C. Read receipts are expensive, so some organizations turn them off.
 #### Q22. What is not a built-in search filter for message folder?
 
 - [ ] Has Attachments
-- [x] Sent to me as Bcc
-- [ ] Categorized
+- [ ] Sent to me as Bcc
+- [x] Categorized
 - [ ] Not sent directly to me
 
 #### Q23. You created a meeting for next Friday at 1 p.m., and several invitees have accepted. How do you change only your version of the meeting to 12 p.m. to allow yourself time to set up?
 
 - [ ] You cannot—instead, create a separate appointment for yourself from 12 p.m. to 1 p.m.
-- [x] Double-click the meeting to open its form, change the start timer and close the form.
-- [ ] Double-click the meeting to open its form, change the reminder to 1 hour, and click **Save**
+- [ ] Double-click the meeting to open its form, change the start timer and close the form.
+- [x] Double-click the meeting to open its form, change the reminder to 1 hour, and click **Save**
 - [ ] Open the calendar in Day, Week, or Work Week view and drag the start time to 12 p.m.
 
 #### Q24. What is the fastest way to find a message sent by Bonnie Bradford that includes an attachment?
@@ -180,8 +180,8 @@ C. Read receipts are expensive, so some organizations turn them off.
 
 - [ ] color
 - [ ] folder
-- [x] name
-- [ ] name and color
+- [ ] name
+- [x] name and color
 
 #### Q26. Outlook autocompletes email addresses you have used previously, including addresses that you mistyped. How can you remove an incorrect autocomplete suggestion?
 
@@ -279,22 +279,22 @@ C. Some people have already accepted, so you must cancel this meeting and create
 
 - [x] Only when the recipient is also using Outlook
 - [ ] Only if the email is plain text without attachments
-- [ ] If the email si still in your outbox
+- [ ] If the email is still in your outbox
 - [ ] If the email was sent within the past 24 hours
 
 [Reference](https://support.microsoft.com/en-us/office/recall-or-replace-an-email-message-that-you-sent-35027f88-d655-4554-b4f8-6c0729a723a0)
 
-#### Q39. What rule can you create in View Settings to color code messages from a particular senderm such as your manager?
+#### Q39. What rule can you create in View Settings to color code messages from a particular sender such as your manager?
 
 - [ ] Format Columns
-- [ ] Conditional Formatting
-- [x] Group By
+- [x] Conditional Formatting
+- [ ] Group By
 - [ ] By Sender
 
 #### Q40. You have a contact folder for members and you need to track two additional pieces of member information: start date and last renewal. What is the simplest wat to track this information?
 
 - [ ] Export your contacts to Excel, which ash lots of columns; add the data; and then import the contacts back to Outlook
-- [ ] Use the Field Chooser to create two new columns of type Date in the folder
+- [x] Use the Field Chooser to create two new columns of type Date in the folder
 - [ ] Create a custom contacts form that includes two text boxes to collect this data
 - [ ] All of these answers
 
@@ -307,7 +307,7 @@ C. Because the unread messages count for the Inbox folder will not include Proje
 D. Because you cannot create a search folder for a subfolder
 ```
 
-- [ ] A and C
+- [x] A and C
 - [ ] A, C, and D
 - [ ] A and B
 - [ ] B and D
@@ -315,9 +315,9 @@ D. Because you cannot create a search folder for a subfolder
 #### Q42. Each \_ can be assigned two default signatures for \_ .
 
 - [ ] None of these answers
-- [x] email account; new messages and replies or forwards
+- [ ] email account; new messages and replies or forwards
 - [ ] user; new messages and replies
-- [ ] user; new messages and replies or forwards
+- [x] user; new messages and replies or forwards
 
 #### Q43. While using Focused Inbox, you notice that Outlook sometimes puts important messages from a specific customer on the **Other** tab. How do you fix this for all future messages?
 
@@ -329,13 +329,13 @@ D. Because you cannot create a search folder for a subfolder
 #### Q44. In the Outlook interface shown below, why is the Show as Conversations option grayed out?
 
 - [ ] The Inbox folder is sorted by size.
-- [ ] The People peek is open and Sally Kerner's card has focus.
+- [x] The People peek is open and Sally Kerner's card has focus.
 - [ ] Focused Inbox is being used.
 - [ ] The People peek is open and has focus.
 
 #### Q45. Suppose you select a message in Focused Inbox and then chose Move to Other, but the message does not move. What is the most likely cause?
 
-- [ ] Clutter is prioritizing the messages.
+- [x] Clutter is prioritizing the messages.
 - [ ] Your mailbox is not ser for random synchronization.
 - [ ] The mailbox is offline.
 - [ ] The mailbox is a shared mailbox.
@@ -381,7 +381,7 @@ D. Because you cannot create a search folder for a subfolder
 
 - [ ] From Internet
 - [ ] From Contacts
-- [ ] From Address Book
+- [x] From Address Book
 - [ ] From Room List
 
 #### Q52. Which criteria can you select to filter email in the Focused folder?
