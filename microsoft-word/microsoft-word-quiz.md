@@ -747,9 +747,9 @@ D. Inserts and Deletions and Formatting are turned off in Show Markup.
 
 #### Q96. What action allows you to quickly access a specific document from your list of saved files?
 
-- [ ] Pin to list
+- [x] Pin to list
 - [ ] Add to chooser
-- [x] Mark as favorite
+- [ ] Mark as favorite
 - [ ] Drag to Home tab
 
 #### Q97. When you create a macro, you can assign it to a **\_**. (Select all that apply.)
