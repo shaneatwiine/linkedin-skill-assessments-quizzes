@@ -381,10 +381,10 @@ D. Inserts and Deletions and Formatting are turned off in Show Markup.
 
 #### Q49. A document has been shared with you from your colleague's OneDrive library. They have given only you editing access. What can you do with this document?
 
-- [x] Share the document with others.
+- [ ] Share the document with others.
 - [ ] Assume ownership of the document.
 - [ ] Remove access from another user.
-- [ ] Coauthor the document with your colleague.
+- [x] Coauthor the document with your colleague.
 
 #### Q50. In the image below, what do the red bars next to the text indicate?
 
