@@ -118,8 +118,8 @@
 
 ![image](images/001.png?raw=png)
 
-- [x] The boxes resize to maintain the same overall height.
-- [ ] The object is deleted and a hole is left behind.
+- [ ] The boxes resize to maintain the same overall height.
+- [x] The object is deleted and a hole is left behind.
 - [ ] The text merges with the second box.
 - [ ] The gaps between the boxes close and the boxes remain the same size.
 
@@ -128,8 +128,8 @@
 ![image](images/001.png?raw=png)
 
 - [ ] The text from the deleted box merges with the next box's text.
-- [ ] The selected object is deleted and the spacing is preserved where the object was.
-- [x] The remaining objects resize to maintain the same overall height.
+- [x] The selected object is deleted and the spacing is preserved where the object was.
+- [ ] The remaining objects resize to maintain the same overall height.
 - [ ] The gaps between the objects close and the objects remain the same size.
 
 #### Q19. Which command builds an overview of document contents based on applied headings styles?
