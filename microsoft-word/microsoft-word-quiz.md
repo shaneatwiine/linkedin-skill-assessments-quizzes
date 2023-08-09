@@ -665,10 +665,10 @@ D. Inserts and Deletions and Formatting are turned off in Show Markup.
 
 #### Q85. When using the Compare function, the differences between two documents are outlined **\_**.
 
-- [x] in red
+- [ ] in red
 - [ ] on the most recent of the two documents
 - [ ] on the original document
-- [ ] on a third document
+- [x] on a third document
 
 #### Q86. You have inserted a picture in your Word document, and you want to ensure that users with visual impairments can access the picture. How can you do this?
 
